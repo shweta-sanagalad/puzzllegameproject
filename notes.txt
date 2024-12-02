@@ -1,0 +1,6 @@
+Game has multiple levels
+In each level there will be atleast 1 empty tower
+Each tower can hold max 4 rings
+When game stars rings will be randomly distributed amoung the towers
+Each rings has color
+Player should put rings of same color in each tower
